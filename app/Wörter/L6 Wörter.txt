@@ -1,0 +1,61 @@
+der Koffer, die Koffer - чемодан
+der Sonntag, die Sonntage - воскресенье
+die Kleidung - одежда
+der Freund, die Freunde - друг
+der Donnerstag, die Donnerstage - четверг
+das Foto, die Fotos - фото
+die Uhr, die Uhren - часы
+die Sache, die Sachen - вещь, дело
+der Tag, die Tage - день
+das Wörterbuch, die Wörterbücher - словарь
+der Samstag, die Samstage - суббота
+das Jahr, die Jahre - год
+die E-Mail, die E-Mails - e-mail
+der Dienstag, die Dienstage - вторник
+der Text, die Texte - текст
+das Visum, die Visa - виза
+die Neuigkeit, die Neuigkeiten - новость
+das Geschenk, die Geschenke - подарок
+die Wendung, die Wendungen - выражение
+der Artikel, die Artikel - статья
+die Karte, die Karten - билет
+der Freitag, die Freitage - пятница
+das Heft, die Hefte - тетрадь
+die Arbeit, die Arbeiten - работа
+das Mobiltelefon, die Mobiltelefone - мобильный телефон
+der Mittwoch, die Mittwoche - среда
+die Zeit, die Zeiten - время
+der Montag, die Montage - понедельник
+die Überraschung, die Überraschungen - сюрприз
+der Film, die Filme - фильм
+der Journalist, die Journalisten - журналист
+das Telefon, die Telefone - телефон
+fahren* (du fährst) - ехать, ездить
+brauchen (was?) - нуждаться
+sprechen* (du sprichst) - говорить, разговаривать
+verstehen - понимать
+lesen* (du liest) - читать
+sehen* (du siehst) auf - видеть, смотреть (на)
+bekommen - получать
+zahlen für - платить (за)
+nehmen* (du nimmst) - брать, взять
+warten auf - ждать
+schlafen* (du schläfst) - спать
+toll - великолепный
+klug - умный
+intelligent - интеллигентный
+jung - молодой
+schnell - быстрый
+nur - только
+ein bisschen - немного
+heute - сегодня
+morgen - завтра
+jetzt - сейчас
+auch - тоже, также
+Deutsch sprechen - говорить по-немецки
+auf Deutsch lesen - читать по-немецки
+ins Deutsche übersetzen - переводить на немецкий
+wohin - куда
+null - 0
+zweitausend - 2000
+wie viel - как много, сколько

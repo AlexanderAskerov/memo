@@ -1,0 +1,54 @@
+das Schiff, die Schiffe - пароход
+der Flur, die Flure - прихожая
+die Palme, die Palmen - пальма
+der Park, die Parks - парк
+die Temperatur, die Temperaturen - температура
+die Küche, die Küchen - кухня
+der Kühlschrank, die Kühlschränke - холодильник
+das Frühstück, die Frühstücke - завтрак
+der Schnupfen - насморк
+das Taxi, die Taxis - такси
+die Tablette, die Tabletten - таблетка
+der Arzt, die Ärzte - врач
+der Tee, die Tees - чай
+die Grippe - грипп
+die Geschichte, die Geschichten - история
+das Thermometer, die Thermometer - термометр
+das Kopfweh - головная боль
+der Sessel, die Sessel - кресло
+die U-Bahn, die U-Bahnen - метро
+das Mittagessen, die Mittagessen - обед
+die Kraft, die Kräfte - сила
+das Fenster, die Fenster - окно
+der Zug, die Züge - поезд
+das Fieber - жар
+der Bus, die Busse - автобус
+die Straßenbahn, die Straßenbahnen - трамвай
+das Pech, die Peche - неудача
+das Glas, die Gläser - стакан
+die Hilfe - помощь
+das Auto, die Autos - авто
+die Wand, die Wände - стена
+der Grad, die Grade - градус
+die Erkältung, die Erkältungen - простуда
+bleiben - оставаться
+legen - класть, положить
+liegen - лежать, находиться
+stellen - ставить
+stehen - стоять
+sitzen - сидеть
+messen* (du misst) - измерять
+gefallen* (du gefällst) - нравиться
+untersuchen - обследовать
+krank - больной
+allein - один, одинокий
+heiß - горячий
+schwach - слабый
+bequem - удобный, уютный
+wirklich - действительно
+wahrscheinlich - очевидно
+zurück - назад, обратно
+Mir geht es nicht gut (Es geht mir nicht gut) - Мне не хорошо
+Wie geht's dir/Ihnen? - Как у тебя/Вас дела?
+Wie schade! - Как жаль!
+Mein Gott! - Боже мой!

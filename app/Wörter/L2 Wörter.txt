@@ -1,0 +1,46 @@
+das Spielzeug, die Spielzeuge - игрушка
+der Grafiker, die Grafiker - график
+der Arbeiter, die Arbeiter - рабочий
+die Blume, die Blumen - цветок
+der Tisch, die Tische - стол
+das Wort, die Wörter/Worte - слово
+das Bild, die Bilder - картина
+das Zimmer, die Zimmer - комната
+die Tasche, die Taschen - сумка
+die Übung, die Übungen - упражнение
+der Wagen, die Wagen - автомобиль
+der Stift, die Stifte - карандаш
+der Computer, die Computer - компьютер
+der Mechaniker, die Mechaniker - механик
+das Kind, die Kinder - ребёнок
+der Stuhl, die Stühle - стул
+das Buch, die Bücher - книга
+der Schrank, die Schränke - шкаф
+der Lehrer, die Lehrer - учитель
+das Mädchen, die Mädchen - девочка
+die Lampe, die Lampen - лампа
+der Mensch, die Menschen - человек
+die Straße, die Straßen - улица
+die Zeitschrift, die Zeitschriften - журнал
+die Zeitung, die Zeitungen - газета
+die Vase, die Vasen - ваза
+der Techniker, die Techniker - техник
+das Haus, die Häuser - дом
+der Sportler, die Sportler - спортсмен
+sein* - быть
+groß - большой, высокий
+klein - маленький
+neu - новый
+alt - старый
+gut - хороший, добрый
+schlecht - плохой
+schön - красивый
+interessant - интересный
+weiß - белый
+schwarz - чёрный
+rot - красный
+blau - голубой, синий
+grün - зелёный
+grau - серый
+braun - коричневый
+gelb - жёлтый

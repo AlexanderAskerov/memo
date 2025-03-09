@@ -1,0 +1,43 @@
+der Winter, die Winter - зима
+der Frühling, die Frühlinge - весна
+der Sommer, die Sommer - лето
+der Herbst, die Herbste - осень
+der Monat, die Monate - месяц
+der Januar, die Januare - январь
+der Februar, die Februare - февраль
+der März, die Märze - март
+der April, die Aprile - апрель
+der Mai, die Maie - май
+der Juni, die Junis - июнь
+der Juli, die Julis - июль
+der August, die Auguste - август
+der September, die September - сентябрь
+der Oktober, die Oktober - октябрь
+der November, die November - ноябрь
+der Dezember, die Dezember - декабрь
+das Wochenende, die Wochenenden - выходные
+der Mittag, die Mittage - полдень
+der Vormittag, die Vormittage - до полудня
+der Nachmittag, die Nachmittage - после полудня
+an/sehen - (по)смотреть
+aus/sehen - выглядеть
+an/rufen - звонить, звать
+ein/laden - пригласить
+an/fangen - начинать(ся)
+mit/bringen - принести с собой
+weg/gehen - уйти
+auf/hören - прекращать
+zu/hören - слушать(ся)
+mit/fahren - (по)ехать вместе
+mit/gehen - пойти вместе
+mit/kommen - прийти(пойти) вместе
+mit/nehmen - взять с собой
+aus/gehen - выйти
+auf/stehen - вставать
+rein/kommen - войти
+spazieren gehen - идти гулять
+stehen bleiben - останавливаться
+kennen lernen - знакомиться
+fern/sehen - смотреть телевизор
+zurück/fahren - ехать обратно
+zurück/kommen - возвращаться

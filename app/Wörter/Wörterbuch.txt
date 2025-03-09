@@ -1,0 +1,535 @@
+--- Lektion 2 ---
+der Tisch, die Tische - стол
+der Stuhl, die Stühle - стул
+der Schrank, die Schränke - шкаф
+der Stift, die Stifte - карандаш
+der Computer, die Computer - компьютер
+der Wagen, die Wagen - автомобиль
+der Mensch, die Menschen - человек
+der Lehrer, die Lehrer - учитель
+der Techniker, die Techniker - техник
+der Mechaniker, die Mechaniker - механик
+der Arbeiter, die Arbeiter - рабочий
+der Sportler, die Sportler - спортсмен
+der Grafiker, die Grafiker - график
+die Lampe, die Lampen - лампа
+die Tasche, die Taschen - сумка
+die Blume, die Blumen - цветок
+die Vase, die Vasen - ваза
+die Straße, die Straßen - улица
+die Übung, die Übungen - упражнение
+die Zeitung, die Zeitungen - газета
+die Zeitschrift, die Zeitschriften - журнал
+das Buch, die Bücher - книга
+das Bild, die Bilder - картина
+das Wort, die Wörter/Worte - слово
+das Haus, die Häuser - дом
+das Zimmer, die Zimmer - комната
+das Kind, die Kinder - ребёнок
+das Mädchen, die Mädchen - девочка
+das Spielzeug, die Spielzeuge - игрушка
+sein* - быть
+groß - большой, высокий
+klein - маленький
+neu - новый
+alt - старый
+gut - хороший, добрый
+schlecht - плохой
+schön - красивый
+interessant - интересный
+weiß - белый
+schwarz - чёрный
+rot - красный
+blau - голубой, синий
+grün - зелёный
+grau - серый
+braun - коричневый
+gelb - жёлтый
+
+--- Lektion 3 ---
+der Mann, die Männer - мужчина, муж
+der Wald, die Wälder - лес
+der Junge, die Jungen - мальчик
+der Student, die Studenten - студент
+der Demokrat, die Demokraten - демократ
+der Architekt, die Architekten - архитектор
+der Satz, die Sätze - предложение
+die Hand, die Hände - рука
+die Nacht, die Nächte - ночь
+die Universität, die Universitäten - университет
+die Bibliothek, die Bibliotheken - библиотека
+das Zeug, die Zeuge - вещь
+das Kino, die Kinos - кино
+das Hotel, die Hotels - отель
+das Café, die Cafés - кафе
+
+--- Lektion 4 ---
+das Englisch - английский язык
+das Deutsch - немецкий язык
+der Elektriker, die Elektriker - электрик
+leben - жить
+schreiben - писать
+lieben - любить
+suchen - искать
+finden - находить, считать
+kaufen - покупать
+arbeiten - работать
+bringen - приносить
+studieren - учиться, изучать
+machen - делать
+lernen - учиться, учить
+übersetzen - переводить
+nicht - не, нет
+was - что
+wer - кто
+wo - где
+wann - когда
+wie - как
+warum - почему
+welcher - который
+was für - что за
+
+--- Lektion 5 ---
+der Vater, die Väter - отец
+der Bruder, die Brüder - брат
+der Sohn, die Söhne - сын
+der Onkel, die Onkel - дядя
+der Beruf, die Berufe - профессия
+von Beruf - по профессии
+der Fernseher, die Fernseher - телевизор
+der Brief, die Briefe - письмо
+der Hund, die Hunde - собака
+der Herr, die Herren - господин
+der Kollege, die Kollegen - коллега
+der Fußball - футбол
+der Volleyball - воллейбол
+der Basketball - баскетбол
+die Familie, die Familien - семья
+die Mutter, die Mütter - мать
+die Schwester, die Schwestern - сестра
+die Tochter, die Töchter - дочь
+die Tante, die Tanten - тётя
+die Frau, die Frauen - женщина, жена
+die Katze, die Katzen - кошка
+die Wohnung, die Wohnungen - квартира
+das Klavier, die Klaviers - пианино, рояль
+das Landhaus, die Landhäuser - загородный дом
+das Deutschland - Германия
+das Berlin - Берлин
+das Tennis - теннис
+die Eltern (Plural) - родители
+die Großeltern (Plural) - дедушка и бабушка
+die Geschwister (Plural) - братья и сёстры
+haben* - иметь
+heißen - звать, называться
+besuchen - навещать, посещать
+spielen - играть
+lustig - весёлый, смешной
+nett - милый, симпатичный
+modern - современный
+wunderbar - удивительный, замечательный
+schon - уже
+noch - ещё
+sehr - очень
+ganz - вполне, совершенно
+leider - к сожалению
+oft - часто
+gern - охотно, с удовольствием
+dort - там
+wen - кого
+kein - ни один, никакой, нет
+und - и
+aber - но
+oder - или
+sondern - но, а
+
+--- Lektion 6 ---
+der Koffer, die Koffer - чемодан
+der Freund, die Freunde - друг
+der Film, die Filme - фильм
+der Journalist, die Journalisten - журналист
+der Artikel, die Artikel - статья
+der Text, die Texte - текст
+der Tag, die Tage - день
+der Montag, die Montage - понедельник
+der Dienstag, die Dienstage - вторник
+der Mittwoch, die Mittwoche - среда
+der Donnerstag, die Donnerstage - четверг
+der Freitag, die Freitage - пятница
+der Samstag, die Samstage - суббота
+der Sonntag, die Sonntage - воскресенье
+die Karte, die Karten - билет
+die Zeit, die Zeiten - время
+die Arbeit, die Arbeiten - работа
+die Neuigkeit, die Neuigkeiten - новость
+die Uhr, die Uhren - часы
+die Sache, die Sachen - вещь, дело
+die Kleidung - одежда
+die Überraschung, die Überraschungen - сюрприз
+die Wendung, die Wendungen - выражение
+die E-Mail, die E-Mails - e-mail
+das Visum, die Visa - виза
+das Jahr, die Jahre - год
+das Foto, die Fotos - фото
+das Geschenk, die Geschenke - подарок
+das Wörterbuch, die Wörterbücher - словарь
+das Heft, die Hefte - тетрадь
+das Telefon, die Telefone - телефон
+das Mobiltelefon, die Mobiltelefone - мобильный телефон
+fahren* (du fährst) - ехать, ездить
+brauchen (was?) - нуждаться
+sprechen* (du sprichst) - говорить, разговаривать
+verstehen - понимать
+lesen* (du liest) - читать
+sehen* (du siehst) auf - видеть, смотреть (на)
+bekommen - получать
+zahlen für - платить (за)
+nehmen* (du nimmst) - брать, взять
+warten auf - ждать
+schlafen* (du schläfst) - спать
+toll - великолепный
+klug - умный
+intelligent - интеллигентный
+jung - молодой
+schnell - быстрый
+nur - только
+ein bisschen - немного
+heute - сегодня
+morgen - завтра
+jetzt - сейчас
+auch - тоже, также
+Deutsch sprechen - говорить по-немецки
+auf Deutsch lesen - читать по-немецки
+ins Deutsche übersetzen - переводить на немецкий
+wohin - куда
+null - 0
+zweitausend - 2000
+wie viel - как много, сколько
+
+--- Lektion 7 ---
+der Papagei, die Papageie - попугай
+der Preis, die Preise - цена
+der Verkäufer, die Verkäufer - продавец
+der Euro - евро
+der Klub, die Klubs - клуб
+der Konzertsaal, die Konzertsäle - концертный зал
+der Sportsaal, die Sportsäle - спортивный зал
+die Antwort, die Antworten - ответ
+die Frage, die Fragen - вопрос
+die Sprache, die Sprachen - язык
+die Hausarbeit, die Hausarbeiten - работа по дому
+die Schule, die Schulen - школа
+das Schweigen - молчание
+das Geschäft, die Geschäfte - магазин
+das Zoogeschäft, die Zoogeschäften - зоомагазин
+das Kaufhaus, die Kaufhäuser - магазин
+das Geld, die Gelder - деньги
+das Silber - серебро
+das Gold - золото
+das Problem, die Probleme - проблема
+das Reden - речь, говорение
+das Theater, die Theater - театр
+das Büro, die Büros - бюро
+das Tischtennis - настольный теннис
+teuer - дорогой
+billig - дешёвый
+ander - другой
+kalt - холодный
+gehen - идти
+kommen - прийти, приходить
+rein/kommen - войти
+zeigen auf - показать (на)
+fragen - спрашивать
+antworten - отвечать (auf eine Frage antworten)
+kosten - стоить
+sagen - сказать
+hören - слушать, слышать
+zuhören - слушать (кого-либо), прислушиваться
+reden - разговаривать, беседовать
+müssen* (du musst) - must
+sollen - should
+können* (du kannst) - can
+dürfen* (du darfst) - may
+wollen* (du willst) - want
+mögen* (du magst) - like
+möchten - would like
+einmal - однажды
+unbedingt - обязательно, непременно
+dann - потом, затем
+wieder - снова
+zu - слишком
+viel(e) - много
+überhaupt - вообще
+dorthin - туда
+entweder ... oder - или ... или (либо ... либо)
+nach - после
+vor - перед, до
+von ... bis - от/c ... до
+Wie spät ist es? Wie viel Uhr ist es? - Который час?
+halb - половина
+viertel - четверть
+
+--- Lektion 8 ---
+der Apfel, die Äpfel - яблоко
+der Duft, die Düfte - запах
+der Jogurt, die Jogurts - йогурт
+der Honig, die Honigs - мёд
+der Friseur, die Friseure - парикмахер
+der Stress, die Stresse - стресс
+die Regel, die Regeln - правило
+die Flasche, die Flaschen - бутылка
+die Gesundheit - здоровье
+die Zitrone, die Zitronen - лимон
+die Apfelsine, die Apfelsinen - апельсин
+die Frucht, die Früchte - фрукт
+die Laune, die Launen - настроение
+die Stunde, die Stunden - час
+die Haut, die Häute - кожа
+die Erdbeere, die Erdbeeren - клубника
+die Frisur, die Frisuren - причёска
+die Ordnung, die Ordnungen - порядок
+die Musik - музыка
+die Ruhe - покой
+die Freude - радость
+die Creme, die Cremen - крем
+die Maske, die Masken - маска
+die Kiwi, die Kiwis - киви
+die Limonade, die Limonaden - лимонад
+die Cola, die Colas - кола
+die Gymnastik - гимнастика
+das Wasser - вода
+das Training, die Trainings - тренировка
+das Haar, die Haare - волос, волосы
+das Vitamin, die Vitamine - витамин
+das Parfüm, die Parfüms - духи
+das Bett, die Betten - кровать
+das Ei, die Eier - яйцо
+das Tagebuch, die Tagebücher - дневник
+trinken - пить
+essen* (du isst) - есть
+treiben - заниматься
+auf/stehen - вставать
+planen - планировать
+gesund - здоровый
+wichtig - важный
+trocken - сухой
+fertig - готовый
+müde - усталый
+richtig - правильный
+froh - радостный
+nervös - нервный
+natürlich - конечно
+einfach - просто
+immer - всегда
+nie - никогда
+früh - рано
+selbst - сам(а/о/и)
+
+--- Lektion 9 ---
+der Geburtstag, die Geburtstage - день рождения
+der Spaß, die Späße - удовольствие
+der Fisch, die Fische - рыба
+der Salat, die Salate - салат
+der Kuchen, die Kuchen - пирог
+der Quatsch - чепуха, ерунда
+der Platz, die Plätze - место
+die Speise, die Speisen - блюдо, кушанье
+die Ahnung, die Ahnungen - понятие, представление
+das Glück - счастье
+das Weihnachten - Рождество
+das Ostern - Пасха
+das Fest, die Feste - праздник
+das Essen - пища, еда
+das Getränk, die Getränke - напиток
+das Fleisch - мясо
+das Hemd, die Hemden - рубашка
+das Recht, die Rechte - право
+das Gemüse, die Gemüse - овощи
+die Leute (Plural) - люди
+feiern - отмечать, праздновать
+kochen - готовить (пищу)
+backen* (du bäckst) - печь
+gratulieren (wem?) - поздравлять
+schenken - дарить
+tanzen - танцевать
+singen - петь
+lachen (über) - смеяться (над)
+helfen* (du hilfst) - помогать
+wünschen (wem?) - желать
+geben* (du gibst) - давать
+danken (wem?) - благодарить
+schließlich - в конце концов, наконец
+total - совершенно
+hier - здесь
+genug - достаточно
+zusammen - вместе
+glücklich - счастливый
+es gibt (wen?) - есть, имеется
+keine Ahnung haben - не иметь понятия (представления)
+Spaß machen - развлекаться
+Recht haben - быть правым
+Das macht nichts! - Ничего! Не беда!
+wem? - кому?
+wozu? - зачем?
+
+--- Lektion 10 ---
+der Arzt, die Ärzte - врач
+der Schnupfen - насморк
+der Grad, die Grade - градус
+der Tee, die Tees - чай
+der Sessel, die Sessel - кресло
+der Kühlschrank, die Kühlschränke - холодильник
+der Flur, die Flure - прихожая
+der Zug, die Züge - поезд
+der Bus, die Busse - автобус
+der Park, die Parks - парк
+die Erkältung, die Erkältungen - простуда
+die Grippe - грипп
+die Hilfe - помощь
+die Kraft, die Kräfte - сила
+die Temperatur, die Temperaturen - температура
+die Geschichte, die Geschichten - история
+die Küche, die Küchen - кухня
+die Tablette, die Tabletten - таблетка
+die Wand, die Wände - стена
+die Straßenbahn, die Straßenbahnen - трамвай
+die U-Bahn, die U-Bahnen - метро
+die Palme, die Palmen - пальма
+das Pech, die Peche - неудача
+das Fieber - жар
+das Kopfweh - головная боль
+das Thermometer, die Thermometer - термометр
+das Glas, die Gläser - стакан
+das Frühstück, die Frühstücke - завтрак
+das Mittagessen, die Mittagessen - обед
+das Fenster, die Fenster - окно
+das Auto, die Autos - авто
+das Taxi, die Taxis - такси
+das Schiff, die Schiffe - пароход
+bleiben - оставаться
+legen - класть, положить
+liegen - лежать, находиться
+stellen - ставить
+stehen - стоять
+sitzen - сидеть
+messen* (du misst) - измерять
+gefallen* (du gefällst) - нравиться
+untersuchen - обследовать
+krank - больной
+allein - один, одинокий
+heiß - горячий
+schwach - слабый
+bequem - удобный, уютный
+wirklich - действительно
+wahrscheinlich - очевидно
+zurück - назад, обратно
+Mir geht es nicht gut (Es geht mir nicht gut) - Мне не хорошо
+Wie geht's dir/Ihnen? - Как у тебя/Вас дела?
+Wie schade! - Как жаль!
+Mein Gott! - Боже мой!
+
+--- Lektion 11 ---
+der Urlaub, die Urlaube - отпуск
+der Unterricht - занятие(я)
+der Kanal, die Kanäle - канал
+der Blick, die Blicke - виды
+der Anfang, die Anfänge - начало
+die Sorge, die Sorgen - тревога, волнение
+die Prüfung, die Prüfungen - экзамен
+die Reise, die Reisen - поездка
+die Stadt, die Städte - город
+die Kirche, die Kirchen - церковь
+die Galerie, die Galerien - галерея
+die Ansichtskarte, die Ansichtskarten - открытка
+die Ausstellung, die Ausstellungen - выставка
+die Einladung, die Einladungen - приглашение
+die Kunst, die Künste - искусство
+das Studium, das Studien - учёба
+das Gebäude, die Gebäude - здание
+das Museum, die Museen - музей
+das Boot, die Boote - лодка
+das Wetter - погода
+klappen (es klappt) - получаться
+reisen - путешествовать, ездить
+beenden - оканчивать, заканчивать
+erzählen über - рассказывать
+schiken - посылать
+bald, bis bald - скоро, до скорого
+eigentlich - собственно говоря
+Mach's gut! - Всего хорошего!
+Ich halte dir die Daumen - Желаю удачи!
+
+der Winter, die Winter - зима
+der Frühling, die Frühlinge - весна
+der Sommer, die Sommer - лето
+der Herbst, die Herbste - осень
+der Monat, die Monate - месяц
+der Januar, die Januare - январь
+der Februar, die Februare - февраль
+der März, die Märze - март
+der April, die Aprile - апрель
+der Mai, die Maie - май
+der Juni, die Junis - июнь
+der Juli, die Julis - июль
+der August, die Auguste - август
+der September, die September - сентябрь
+der Oktober, die Oktober - октябрь
+der November, die November - ноябрь
+der Dezember, die Dezember - декабрь
+das Wochenende, die Wochenenden - выходные
+der Mittag, die Mittage - полдень
+der Vormittag, die Vormittage - до полудня
+der Nachmittag, die Nachmittage - после полудня
+an/sehen - (по)смотреть
+aus/sehen - выглядеть
+an/rufen - звонить, звать
+ein/laden - пригласить
+an/fangen - начинать(ся)
+mit/bringen - принести с собой
+weg/gehen - уйти
+auf/hören - прекращать
+zu/hören - слушать(ся)
+mit/fahren - (по)ехать вместе
+mit/gehen - пойти вместе
+mit/kommen - прийти(пойти) вместе
+mit/nehmen - взять с собой
+aus/gehen - выйти
+auf/stehen - вставать
+rein/kommen - войти
+spazieren gehen - идти гулять
+stehen bleiben - останавливаться
+kennen lernen - знакомиться
+fern/sehen - смотреть телевизор
+zurück/fahren - ехать обратно
+zurück/kommen - возвращаться
+
+im Jahre 2004 - в 2004 году
+im Sommer - летом
+im Juni - в июне
+am ersten Juni 2004 - 1-го июня 2004 года
+am Montag - в понедельник
+am Wochenende - на выходных
+am Morgen - утром
+am Vormittag - до полудня
+am Mittag - в полдень
+am Nachmittag - после полудня
+am Abend - вечером
+in der Nacht - ночью
+morgens - по утрам
+vormittags - всегда до полудня
+nachmittags - всегда после полудня
+abends - по вечерам
+nachts - по ночам
+heute Abend - сегодня вечером
+heute Vormittag - сегодня до полудня
+morgen Mittag - завтра в полдень
+Um wie viel Uhr? - В котором часу?
+Um Wie viel Uhr stehen Sie auf? - В котором часу Вы встаёте?
+um acht Uhr morgens - в восемь часов утра
+um neun Uhr abends - в девять часов вечера
+um drei Uhr nachmittags - в три часа после полудня
+um halb drei - в полтретьего
+um viertel nach sieben - в четверть после семи
+um fünf Minuten vor vier - в пять минут до четырёх
+
+--- Lektion 12 ---
